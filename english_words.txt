@@ -2,3 +2,4 @@ cat - кошка
 dog - собака
 bear - медведь
 crocodile - крокодил 
+mouse - мышь
